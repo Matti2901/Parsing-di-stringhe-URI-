@@ -1,5 +1,4 @@
-;;Gruppo: Ceccarelli Matteo 869079,
-;;        Milanese Mattia 869161.
+
 
 ;;;; -*-Mode: Lisp -*-
 
